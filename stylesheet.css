@@ -11,6 +11,7 @@ body{
 nav{
     background-color: #FFFFFF;
     border: 1px solid #FFFFFF;
+    padding-left: 0;
 }
 nav ul{
     list-style: none;
